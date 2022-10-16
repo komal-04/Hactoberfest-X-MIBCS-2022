@@ -1,5 +1,5 @@
 # Contributors
-
+- [komal attarde](https://github.com/komal-04)
 *these are few sample names to show you the format
 - [SourabhP2003](https://github.com/SourabhP2003)
 - [jayesh](https://github.com/jayesh101)
